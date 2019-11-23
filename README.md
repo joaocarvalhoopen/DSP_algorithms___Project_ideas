@@ -103,3 +103,9 @@ Some time ago I made a list of some cool project ideas that can be made with DSP
 49. Video Stabilization using correlation between n and n-1 video frames.
 
 50. Implement super-resolution in raw video, with algorithm or with deep learning.
+
+<br>
+Have fun!<br>
+<br>
+Best regards,<br>
+Joao Nuno Carvalho<br>
