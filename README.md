@@ -6,7 +6,7 @@ Some time ago I made a list of some cool project ideas that can be made with DSP
 
 1. Detect the voice of a child, a women or a men (FFT - segment on different range of frequencies).
 
-2. Detect the frequency of a sound, How a guitar tuner works, with auto-correlation, comparing between zero crossing, auto correlation and FFT approaches .
+2. Detect the frequency of a sound, How a guitar tuner works, with auto-correlation, comparing between zero crossing, auto correlation and FFT approaches.
 
 3. Detect weasels, and different kind and sequence of weasels.
 
@@ -14,35 +14,35 @@ Some time ago I made a list of some cool project ideas that can be made with DSP
 
 5. How the generation of speech works, vocoders.
 
-6. How the recognition of speech works (with markov Hidden Models and with Deep Learning)
+6. How the recognition of speech works (with markov Hidden Models and with Deep Learning).
 
 7. How the cocktail party problem is solved and see the simples static case with ICA - Independent Component Analysis algorithm.
 
 8. How SETI detects faint periodic signals, that are below de SNR. Or how the Voyager 1 signals can be received on earth, and sended to voyager 1. How the algorithms behind WSPR (Weak Signal Propagation Reporter) work.  
 
-9. Detect the direction of the most powerful sound or impulse,like a shoot or to track a quadricopter only by it’s sound
+9. Detect the direction of the most powerful sound or impulse,like a shoot or to track a quadricopter only by it’s sound.
 
-10. How can you generate the sound of an instrument, like a guitar or a trumpet. (Karplus strong)
+10. How can you generate the sound of an instrument, like a guitar or a trumpet (Karplus strong).
 
-11. Directional Sound Bar (how to make phased arrays or beam forming)
+11. Directional Sound Bar (how to make phased arrays or beam forming).
 
 12. How phased array of microphones works, and how to make a directional microphone, that without motors to move it’s direction.
 
-13. Acoustic Radar in 1D
+13. Acoustic Radar in 1D.
 
-14. Acoustic Radar in 2D and 3D (the 2D version can be made with a 20 dollar usb external card like Behringer UCA 222 USB Audio Interface, that has 2 inputs and 2 outputs)
+14. Acoustic Radar in 2D and 3D (the 2D version can be made with a 20 dollar usb external card like Behringer UCA 222 USB Audio Interface, that has 2 inputs and 2 outputs).
 
-15. Acoustic Camera ( Can be made using two usb sound cards  Behringer UCA 222 USB)
+15. Acoustic Camera ( Can be made using two usb sound cards  Behringer UCA 222 USB).
 
 16. How to compress an image with wavelets.
 
 17. How to make the sound recording go faster in preview mode, without altering the pitch of the voice.
 
-18. How the the DSP of a ultrasound array of a ecography works, to detect different kind of biological material
+18. How the the DSP of a ultrasound array of a ecography works, to detect different kind of biological material.
 
 19. how to make a 3d Scanner just with sound, microphones and speaker.
 
-20. How an acoustic spot light works (explaining the demodulation at high sound pressures)
+20. How an acoustic spot light works (explaining the demodulation at high sound pressures).
 
 21. Explaining how to make a radar with Doppler Effect to measure the velocity.
 
@@ -60,12 +60,11 @@ Some time ago I made a list of some cool project ideas that can be made with DSP
 
 28. How to have more bit’s of resolution from an ADC using multiple samples.
 
-29. Detect the position of the touch on a table based on the triangulation of the signal to 3 piezo.
-Virtual Keyboard
+29. Detect the position of the touch on a table based on the triangulation of the signal to 3 piezo. Virtual Keyboard.
 
 30. Determine the position of a person in a room based on triangulation of the steps with some piezos or directly with sound.  
 
-31. Determine the velocity of a car based only on the Doppler effect when it passes perpendicular to a road side person. Android Phone/FFT
+31. Determine the velocity of a car based only on the Doppler effect when it passes perpendicular to a road side person. Android Phone/FFT.
 
 32. Measure the heart rate with a piezo or a accelerometer on a phone that is taped to the arm.
 
@@ -83,13 +82,13 @@ Virtual Keyboard
 
 39. Spike Noise canceler for LP Records.
 
-40. Audio Effects (echo, reverb, phaser, ring modulation)
+40. Audio Effects (echo, reverb, phaser, ring modulation).
 
 41. Audio equalizer.
 
 42. Audio Bandwidth simulator for Telephone, AM Radio, FM Audio or CD Audio.
 
-43. Implement a Digital CrossOver for multi-amplifier  speakers
+43. Implement a Digital CrossOver for multi-amplifier speakers.
 
 44. Ambient noise canceling with 2 microphones Front of phone back of phone placement.
 
