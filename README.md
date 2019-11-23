@@ -8,7 +8,7 @@ Some time ago I made a list of some cool project ideas that can be made with DSP
 
 2. Detect the frequency of a sound, How a guitar tuner works, with auto-correlation, comparing between zero crossing, auto correlation and FFT approaches.
 
-3. Detect weasels, and different kind and sequence of weasels.
+3. Detect whistles, and different kind and sequence of whistles.
 
 4. How to detect a sound, or the similarity of a sound to a pre-recorded sound with Dynamic Time Warp algorithm (DTW).
 
